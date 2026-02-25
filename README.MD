@@ -7,7 +7,7 @@ Typing my text Eget ipsam varius diam! Provident cupidatat debitis dolorem, quib
 ```python
 import numpy as np
 
-my_list =[1,2,3,4,]
+my_list = [1,2,3,4,5]
 
 ```
 
